@@ -1,4 +1,4 @@
-// This solutions submitted on luyencode.net DCTDN1 problem and Accepted
+// this solutions was submitted and accepted on DCTDN1 problem
 #include <bits/stdc++.h>
 
 int main() {
